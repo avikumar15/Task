@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_item"
+    android:padding="10dp"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#C9C9C9"
+        android:id="@+id/classname"
+        android:textSize="18sp"
+        android:text="@string/class_name"
+        >
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#C9C9C9"
+        android:id="@+id/totalclass"
+        android:textSize="18sp"
+        android:text="@string/total_class"
+        >
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#C9C9C9"
+        android:id="@+id/classpresent"
+        android:textSize="18sp"
+        android:text="@string/class_present"
+        >
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#C9C9C9"
+        android:id="@+id/classabsent"
+        android:textSize="18sp"
+        android:text="@string/class_absernt"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#C9C9C9"
+        android:id="@+id/classsick"
+        android:textSize="18sp"
+        android:text="@string/class_sick"
+        >
+
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#C9C9C9"
+        android:id="@+id/classlate"
+        android:textSize="18sp"
+        android:text="@string/class_late"
+        >
+    </TextView>
+</LinearLayout>

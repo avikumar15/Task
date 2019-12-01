@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intellify Task</string>
+    <string name="student_id">Student ID</string>
+    <string name="submit">GO</string>
+    <string name="class_name">Class Name</string>
+    <string name="total_class">Total Class</string>
+    <string name="class_present">Class Present</string>
+    <string name="class_absernt">Class Absent</string>
+    <string name="class_sick">Class Sick</string>
+    <string name="class_late">Class Late</string>
+</resources>
